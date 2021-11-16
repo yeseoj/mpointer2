@@ -9,7 +9,7 @@ void func3(int*** p);
 void func4(int**** p);
 
 int main() {
-    int i = 100;
+    int i = 1000;
 
     int *p, **dp, ***tp;
     
